@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "인사하는 남자"
 title_separator          : "-"
 subtitle                 : "AI와 데이터과학을 배우는 인사하는 남자"
-name                     : "Your Name"
+name                     : "Ian.Cho"
 description              : "도전하는 삶을 위한 사이트"
 url                      : "https://chobbong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,13 +104,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ian.Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "slow, but step by step"
+  location         : "seoul, somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "joyunseo@naver.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
