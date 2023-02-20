@@ -36,7 +36,3 @@ print(combined_dataframe_2)
     5  9  12
 
 
-
-```python
-
-```
